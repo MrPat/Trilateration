@@ -40,3 +40,6 @@ The multilateration problem can be formulated as an optimization problem and sol
 ### Windows
 ./gradlew.bat clean  
 ./gradlew.bat test -i
+
+
+Go to https://jitpack.io/#MrPat/Trilateration/v1.0.1 for Gradle/Maven info. This version of the repo compiles with JDK7.
